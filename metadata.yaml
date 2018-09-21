@@ -1,0 +1,31 @@
+_repo: El-Sabor-de-la-Venganza_54285
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Baroja, Pío
+    aliases:
+    - Baroja, Pio
+    - Nessi, Pío Baroja y
+    birthdate: 1872
+    deathdate: 1956
+    gutenberg_agent_id: '2669'
+    url: http://www.gutenberg.org/2009/agents/2669
+    wikipedia:
+    - http://en.wikipedia.org/wiki/P%C3%ADo_Baroja
+    - http://es.wikipedia.org/wiki/Pío_Baroja
+description: ''
+gutenberg_issued: '2017-03-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54285'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Memorias de un hombre de acción, tomo 11
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Aviraneta e Ibargoyen, Eugenio de, 1792-1872 -- Fiction'
+- GITenberg
+title: El Sabor de la Venganza
+url: http://www.gutenberg.org/ebooks/54285
