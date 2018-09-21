@@ -1,5 +1,8 @@
 _repo: El-Sabor-de-la-Venganza_54285
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 54285-h/images/cover.jpg
 creator:
   author:
     agent_name: Baroja, Pío
@@ -14,6 +17,8 @@ creator:
     - http://en.wikipedia.org/wiki/P%C3%ADo_Baroja
     - http://es.wikipedia.org/wiki/Pío_Baroja
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54285#El-Sabor-de-la-Venganza
 gutenberg_issued: '2017-03-06'
 gutenberg_type: Text
 identifiers:
